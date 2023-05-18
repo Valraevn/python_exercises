@@ -1,2 +1,2 @@
 # python_exercises
-Python training scripts
+A personal hub for beginner python exercises.
